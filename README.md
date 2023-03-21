@@ -7,12 +7,10 @@ The detailed output format is as follows.
 In Step3_single_mol_methy.sh:
 
 ${sample}_single_mol_methy_seg.xls
-
 Tabular data that links segment accessiblity and CpG ratio to segment genomic locus.
 ![image](https://user-images.githubusercontent.com/91398995/226509102-2071014d-0dd6-47cc-9b25-0ade511dff46.png)
 
 ${sample}_single_mol_methy_site.xls
-
 Tabular data of GpC/CpG methylation likelihood ratio for each GpC/CpG site.
 ![image](https://user-images.githubusercontent.com/91398995/226511394-7c864285-04ee-4b7d-92e1-b0d08ccbe841.png)
 
